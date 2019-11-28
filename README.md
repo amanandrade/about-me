@@ -29,6 +29,6 @@ Olá! Moro em São Paulo (SP), tenho 28 anos, fiz graduação e pós-graduação
 - Estagiária em Arquivo - 2011-2012 - Arquivo Geral da USP
 
 ## Habilidades
-- Conhecimentos em HTML, CSS, Python, Javascript, PHP, Git e GitHub, Bootstrap
+- Conhecimentos em HTML, CSS, Python, Javascript, PHP, MySQL, Git e GitHub, Bootstrap
 - Prática com softwares de GED, ERP e Gestão de Bibliotecas (iManage, E-Law, Tedesco, Benner, Alexandria e Pergamum)
 - Inglês intermediário – Compreende e lê bem, fala e escreve razoavelmente

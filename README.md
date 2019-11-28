@@ -15,7 +15,7 @@ Olá! Moro em São Paulo (SP), tenho 28 anos, fiz graduação e pós-graduação
 > Participei do programa *Mais Mulheres em Programação*, que ofereceu bolsas às 100 primeiras mulheres que concluísse o processo de seleção.
 
 - Formação em UX Design - 2019 - [Mergo User Experience](https://www.mergo.com.br/formacao-ux.html)
-> Curso de imersão em pesquisa e processo de desing criativo. Abrangeu todo o caminho de construção de um produto, passando pelas fases de empatia, definição, ideação, prototipação e teste.
+> Curso de imersão em pesquisa e processo de design criativo. Abrangeu todo o caminho de construção de um produto, passando pelas fases de empatia, definição, ideação, prototipação e teste.
 
 - Pós-Graduação *latu senso* em Gestão da Informação Digital – 2016-2017 - [FESPSP](https://www.fespsp.org.br/pos-graduacao/cursos/gestao-de-conteudos-e-informacao-digital)
 

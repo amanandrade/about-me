@@ -10,11 +10,11 @@ Olá! Moro em São Paulo (SP), tenho 28 anos, fiz graduação e pós-graduação
 - Kaggle: https://www.kaggle.com/amandaandrade
 
 ## Cursos e formação acadêmica
-- Bootcamp de Data Science - 2019 - [WoMakersCode](https://womakerscode.org/datascience-bootamp-saopaulo)
-> Iniciativa que busca formar mulheres para a carreira de Ciência de Dados. Apoiado por: Microsoft, Universidade São Judas Tadeu, ClickBus, Movile, Accenture e LivUp
-
 - Desenvolvimento Web Full Stack - 2019-2020 - [Digital House Brasil](https://www.digitalhouse.com/br/mais-mulheres-em-programacao/)
 > Participei do programa *Mais Mulheres em Programação*, que ofereceu bolsas às 100 primeiras mulheres que concluísse o processo de seleção.
+
+- Bootcamp de Data Science - 2019 - [WoMakersCode](https://womakerscode.org/datascience-bootamp-saopaulo)
+> Iniciativa que busca formar mulheres para a carreira de Ciência de Dados. Apoiado por: Microsoft, Universidade São Judas Tadeu, ClickBus, Movile, Accenture e LivUp
 
 - Formação em UX Design - 2019 - [Mergo User Experience](https://www.mergo.com.br/formacao-ux.html)
 > Curso de imersão em pesquisa e processo de design criativo. Abrangeu todo o caminho de construção de um produto, passando pelas fases de empatia, definição, ideação, prototipação e teste.

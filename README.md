@@ -7,7 +7,7 @@ Olá! Moro em São Paulo (SP), tenho 28 anos, fiz graduação e pós-graduação
 - LinkedIn: https://www.linkedin.com/in/amanandrade
 - GitHub: https://github.com/amanandrade
 - Hackerrank: https://www.hackerrank.com/mandrade_amanda
-- Keagle: https://www.kaggle.com/amandaandrade
+- Kaggle: https://www.kaggle.com/amandaandrade
 
 ## Cursos e formação acadêmica
 - Bootcamp de Data Science - 2019 - [WoMakersCode](https://womakerscode.org/datascience-bootamp-saopaulo)

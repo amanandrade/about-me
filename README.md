@@ -6,6 +6,8 @@ Olá! Moro em São Paulo (SP), tenho 28 anos, fiz graduação e pós-graduação
 - E-mail: mandrade.amanda@gmail.com
 - LinkedIn: https://www.linkedin.com/in/amanandrade
 - GitHub: https://github.com/amanandrade
+- Hackerrank: https://www.hackerrank.com/mandrade_amanda
+- Keagle: https://www.kaggle.com/amandaandrade
 
 ## Cursos e formação acadêmica
 - Bootcamp de Data Science - 2019 - [WoMakersCode](https://womakerscode.org/datascience-bootamp-saopaulo)
@@ -29,6 +31,6 @@ Olá! Moro em São Paulo (SP), tenho 28 anos, fiz graduação e pós-graduação
 - Estagiária em Arquivo - 2011-2012 - Arquivo Geral da USP
 
 ## Habilidades
-- Conhecimentos em HTML, CSS, Python, Javascript, PHP, MySQL, Git e GitHub, Bootstrap
+- Conhecimentos em HTML, CSS, Python, Javascript, PHP, Laravel, MySQL, Git e GitHub, Bootstrap
 - Prática com softwares de GED, ERP e Gestão de Bibliotecas (iManage, E-Law, Tedesco, Benner, Alexandria e Pergamum)
 - Inglês intermediário – Compreende e lê bem, fala e escreve razoavelmente

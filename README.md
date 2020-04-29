@@ -1,7 +1,7 @@
 ﻿# about-me
 ## Amanda Martins Andrade
 
-Olá! Moro em São Paulo (SP), tenho 28 anos, fiz graduação e pós-graduação em Biblioteconomia e agora quero agregar esse conhecimento com a área de tecnologia. Atualmente estudo conteúdos relacionados a desenvolvimento **web full stack** e **ciência de dados**. Também tive contato com pesquisa em **UX** e processo de design criativo. Trabalhei 8 anos em arquivos e bibliotecas com **gestão de informações**, aplicando métodos para facilitar o acesso digital às informações registradas fisicamente. Já participei da elaboração de projetos, desde a descrição de etapas estratégicas até aplicação de tarefas operacionais. Nas horas vagas, gosto de ler, andar de bicicleta e cuidar da minha dog =)
+Olá! Moro em São Paulo (SP), tenho 28 anos e atuo hoje com desenvolvimento backend em Python. Iniciei minha carreira acadêmica em Biblioteconomia: fiz graduação e pós-graduação em Gestão de Informações. Depois de 8 anos nessa área, me interessei em estudar tecnologia para trazer soluções escaláveis e automatizadas às demandas no trabalho. Hoje estou envolvida em conteúdos relacionados a **desenvolvimento web**, **DevOps**, **sistemas embarcados** e **ciência de dados**. Também tive contato com pesquisa em **UX** e processo de design criativo. Nas horas vagas, gosto de ler, andar de bicicleta e cuidar da minha dog =)
 
 - E-mail: mandrade.amanda@gmail.com
 - LinkedIn: https://www.linkedin.com/in/amanandrade

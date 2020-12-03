@@ -34,9 +34,10 @@ Olá! Moro em São Paulo (SP) e atuo hoje com desenvolvimento **backend em Pytho
 ## Habilidades
 ### Conhecimentos em Desenvolvimento Backend: 
 - Python (incluindo bibliotecas e frameworks para desenvolvimento de APIs e testes) 
-- Node.JS (incluindo múdulos para APIs)
+- Node.JS (incluindo módulos para APIs)
 - Banco de dados (SQL, SQLAlchemy e MongoDG)
-- Desenvolvimento orientado à objetos
+- Desenvolvimento orientado a objetos
+
 ### Conhecimentos em DevOps: 
 - Linux
 - Docker
@@ -44,6 +45,7 @@ Olá! Moro em São Paulo (SP) e atuo hoje com desenvolvimento **backend em Pytho
 - GitHub e Bitbucket
 - Ferramentas de CI/CD (GitHub Actions e Bitbucket Pipelines)
 - Noções de serviços Azure e GCloud
+
 ### Conhecimentos em Desenvolvimento Frontend: 
 - HTML/CSS
 - Aprendendo Javascritp e React.js

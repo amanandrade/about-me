@@ -1,7 +1,7 @@
 ﻿# about-me
 ## Amanda Martins Andrade
 
-Olá! Moro em São Paulo (SP) e atuo hoje com desenvolvimento **backend em Python**. Iniciei minha carreira acadêmica em Biblioteconomia: fiz graduação e pós-graduação em Gestão de Informações. Depois de 8 anos nessa área, me interessei em estudar tecnologia para trazer soluções escaláveis e automatizadas às demandas no trabalho. Hoje estou envolvida em conteúdos relacionados a **desenvolvimento web (backend)**, **DevOps**, **sistemas embarcados** e **ciência de dados**. Também tive contato com pesquisa em **UX** e processo de design criativo. Nas horas vagas, gosto de ler, andar de bicicleta e cuidar da minha dog =)
+Olá! Moro em São Paulo (SP) e atuo hoje com desenvolvimento **backend em Python**. Iniciei minha carreira acadêmica em Biblioteconomia: fiz graduação e pós-graduação em Gestão de Informações. Depois de 8 anos nessa área, me interessei em estudar tecnologia para trazer soluções escaláveis e automatizadas às demandas no trabalho. Hoje estou envolvida em conteúdos relacionados a **desenvolvimento web (backend)**, **DevOps** e **ciência de dados**. Também tive contato com pesquisa em **UX** e processo de design criativo. Nas horas vagas, gosto de ler, andar de bicicleta e cuidar da minha dog =)
 
 - E-mail: mandrade.amanda@gmail.com
 - LinkedIn: https://www.linkedin.com/in/amanandrade
@@ -24,7 +24,7 @@ Olá! Moro em São Paulo (SP) e atuo hoje com desenvolvimento **backend em Pytho
 - Graduação: Biblioteconomia – 2010-2014 - [ECA/USP](http://www3.eca.usp.br/)
 
 ## Experiência profissional
-- Desenvolvedora banckend e softwares embarcados - 2020 - Cromai Tecnologias Agrícolas
+- Desenvolvedora banckend - 2020 - Cromai Tecnologias Agrícolas
 - Bibliotecária - 2018-2019 - Fundação OSESP
 - Analista de Arquivo - 2015-2018 - Mattos Filho Advogados
 - Estagiária em Inovação e Tecnologia - 2014-2015 - Braskem S/A
@@ -32,8 +32,24 @@ Olá! Moro em São Paulo (SP) e atuo hoje com desenvolvimento **backend em Pytho
 - Estagiária em Arquivo - 2011-2012 - Arquivo Geral da USP
 
 ## Habilidades
-- Conhecimentos em Web: HTML, CSS, Python, Javascript, PHP, Laravel, MySQL Git e GitHub, Bootstrap 
-- Conhecimentos em DevOps: Linux, Docker, aplicações de Python para backend, sistemas embarcados
-- Prática com softwares de GED, ERP e Gestão de Bibliotecas: iManage, E-Law, Tedesco, Benner, Alexandria e Pergamum
-- Inglês intermediário – Compreende e lê bem, fala e escreve razoavelmente
-- Francês básico - Compreende, lê, fala e escreve razoavelmente
+### Conhecimentos em Desenvolvimento Backend: 
+- Python (incluindo bibliotecas e frameworks para desenvolvimento de APIs e testes) 
+- Node.JS (incluindo múdulos para APIs)
+- Banco de dados (SQL, SQLAlchemy e MongoDG)
+- Desenvolvimento orientado à objetos
+### Conhecimentos em DevOps: 
+- Linux
+- Docker
+- Git
+- GitHub e Bitbucket
+- Ferramentas de CI/CD (GitHub Actions e Bitbucket Pipelines)
+- Noções de serviços Azure e GCloud
+### Conhecimentos em Desenvolvimento Frontend: 
+- HTML/CSS
+- Aprendendo Javascritp e React.js
+
+## Projetos *open source*
+- Projeto em backend usando Node.js com arquitetura em clean code *(em construção)*: [clean code node](https://github.com/amanandrade/clean_code_node)
+- Case com script em shell: [case embarcados](https://github.com/amanandrade/case-embarcados)
+- API em Python usando Flask e SQLAlchemy *(em construção)*: [API-SQLAlchemy](https://github.com/amanandrade/api-sqlalchemy)
+- Rede social para fins educacionais: [DG-habilidades](https://github.com/amanandrade/plataforma-habilidades-DG)

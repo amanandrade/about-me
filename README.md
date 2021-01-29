@@ -24,7 +24,8 @@ Olá! Moro em São Paulo (SP) e atuo hoje com desenvolvimento **backend em Pytho
 - Graduação: Biblioteconomia – 2010-2014 - [ECA/USP](http://www3.eca.usp.br/)
 
 ## Experiência profissional
-- Desenvolvedora banckend - 2020 - Cromai Tecnologias Agrícolas
+- Analista em DevOps - atualmente - Accenture Brasil
+- Desenvolvedora banckend - 2020-2021 - Cromai Tecnologias Agrícolas
 - Bibliotecária - 2018-2019 - Fundação OSESP
 - Analista de Arquivo - 2015-2018 - Mattos Filho Advogados
 - Estagiária em Inovação e Tecnologia - 2014-2015 - Braskem S/A

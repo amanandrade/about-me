@@ -6,7 +6,7 @@ Olá! Moro em São Paulo (SP) e atuo hoje com desenvolvimento **backend em Pytho
 - E-mail: mandrade.amanda@gmail.com
 - LinkedIn: https://www.linkedin.com/in/amanandrade
 - GitHub: https://github.com/amanandrade
-- Hackerrank: https://www.hackerrank.com/mandrade_amanda
+- Hackerrank: https://www.hackerrank.com/amanandrade
 - Kaggle: https://www.kaggle.com/amandaandrade
 
 ## Cursos e formação acadêmica

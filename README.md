@@ -1,7 +1,7 @@
 ﻿# about-me
 ## Amanda Martins Andrade
 
-Olá! Moro em São Paulo (SP) e atuo hoje com desenvolvimento **backend em Python**. Iniciei minha carreira acadêmica em Biblioteconomia: fiz graduação e pós-graduação em Gestão de Informações. Depois de 8 anos nessa área, me interessei em estudar tecnologia para trazer soluções escaláveis e automatizadas às demandas no trabalho. Hoje estou envolvida em conteúdos relacionados a **desenvolvimento web (backend)**, **DevOps** e **ciência de dados**. Também tive contato com pesquisa em **UX** e processo de design criativo. Nas horas vagas, gosto de ler, andar de bicicleta e cuidar da minha dog =)
+Olá! Moro em São Paulo (SP) e atuo hoje com **desenvolvimento backend** e **DevOPS**. Iniciei minha carreira acadêmica em Biblioteconomia: fiz graduação e pós-graduação em Gestão de Informações. Depois de 8 anos nessa área, me interessei em estudar tecnologia para trazer soluções escaláveis e automatizadas às demandas no trabalho. Hoje estou envolvida em projetos de migração de serviços para Cloud, contribuindo para transformação digital de indústrias. Tenho conhecimentos em **UX** e processo de design criativo além de experiência com projetos ágeis (**Scrum, Kanban e SAFe**). Nas horas vagas, gosto de ler, andar de bicicleta e cuidar da minha dog =)
 
 - E-mail: mandrade.amanda@gmail.com
 - LinkedIn: https://www.linkedin.com/in/amanandrade
@@ -24,32 +24,30 @@ Olá! Moro em São Paulo (SP) e atuo hoje com desenvolvimento **backend em Pytho
 - Graduação: Biblioteconomia – 2010-2014 - [ECA/USP](http://www3.eca.usp.br/)
 
 ## Experiência profissional
-- Analista em DevOps - atualmente - Accenture Brasil
+- Analista DevOps - atualmente - Accenture Brasil
 - Desenvolvedora banckend - 2020-2021 - Cromai Tecnologias Agrícolas
 - Bibliotecária - 2018-2019 - Fundação OSESP
 - Analista de Arquivo - 2015-2018 - Mattos Filho Advogados
-- Estagiária em Inovação e Tecnologia - 2014-2015 - Braskem S/A
-- Estagiária em Biblioteca - 2012-2013 - Instituto Butantan
-- Estagiária em Arquivo - 2011-2012 - Arquivo Geral da USP
 
 ## Habilidades
 ### Conhecimentos em Desenvolvimento Backend: 
 - Python (incluindo bibliotecas e frameworks para desenvolvimento de APIs e testes) 
 - Node.JS (incluindo módulos para APIs)
 - Banco de dados (SQL, SQLAlchemy e MongoDG)
-- Desenvolvimento orientado a objetos
+- Desenvolvimento orientado a objetos e TDD
+- Clean Code Architecture
 
 ### Conhecimentos em DevOps: 
 - Linux
 - Docker
+- Terraform
+- Jenkins
 - Git
-- GitHub e Bitbucket
 - Ferramentas de CI/CD (GitHub Actions e Bitbucket Pipelines)
-- Noções de serviços Azure e GCloud
+- Serviços Cloud AWS
 
-### Conhecimentos em Desenvolvimento Frontend: 
-- HTML/CSS
-- Aprendendo Javascritp e React.js
+## Certificações
+- [AWS Cloud Pratictioner](https://www.credly.com/badges/e54950bc-8100-4002-8f3f-baa0cdc1180a/public_url)
 
 ## Projetos *open source*
 - Projeto em backend usando Node.js com arquitetura em clean code *(em construção)*: [clean code node](https://github.com/amanandrade/clean_code_node)
